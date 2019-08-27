@@ -1,0 +1,13 @@
+name: UtilsPlugin
+version: 1.1
+author: BladeEnder
+main: dev.bladeender.utilsplugin.Main
+description: Plugin utile on va dire
+
+commands:
+  god:
+   description: commande de god rend immortel
+  feed:
+    description: redonne de la nourriture
+  fly:
+    description: active le fly

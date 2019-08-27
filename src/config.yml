@@ -1,0 +1,10 @@
+console_error__message: '&8[&c*&8] &cCette commande est faite pour un joueur'
+permission_error: '&8[&c*&8] Vous navez pas la permission'
+GodCommand:
+  god_enabled: '&8[&a*&8] &aGod active'
+  god_disabled: '&8[&a*&8] &cGod désactive'
+FlyCommand:
+  fly_enabled: '&8[&a*&8] &aFly active'
+  fly_disabled: '&8[&a*&8] &cFly désactive'
+FeedCommand:
+  feed_ok: '&8[&a*&8] Vous avez été rassasié'
